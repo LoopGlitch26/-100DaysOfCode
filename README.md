@@ -14,3 +14,6 @@ Completed 10/52 tests of Applied Visual Design for the Responsive Web Design Cer
 
 ## Day 4
 Completed 15/52 tests of Applied Visual Design for the Responsive Web Design Certification
+
+## Day 5
+Completed 20/52 tests of Applied Visual Design for the Responsive Web Design Certification
